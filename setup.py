@@ -5,7 +5,7 @@ import os
 # read the contents of your README file
 this_directory = path.abspath(path.dirname(__file__))
 
-description = 'This library has several helper functions for deep learning
+description = 'This library has several helper functions for deep learning'
 
 try:
     with open(path.join(this_directory, 'kdlutils/README.rst'), "r") as f:
