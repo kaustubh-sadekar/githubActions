@@ -30,7 +30,9 @@ Documentation and new codes will be uploaded soon.
 
 4. Link to python documentation section [related to packaging using GiHhubActions](https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/#:~:text=Go%20to%20https%3A%2F%2Fpypi,distinguishable%20in%20the%20token%20list.).
 
-5. [link to the PiPy package](https://pypi.org/project/kdlutils/)
+5. [Similar link](https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/).
+
+6. [link to the PiPy package](https://pypi.org/project/kdlutils/)
 
 ### To do
 - [ ] Write a tutorial.md file explaining the process
