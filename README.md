@@ -21,4 +21,11 @@ print(out)
 Documentation and new codes will be uploaded soon.
 
 ### Note:
-he setup.py file and theREADME.rst files are written based on the following blog : https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
+he setup.py file and theREADME.rst files are written based on [this blog](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56). It is a great reference for anyone trying to their package pip installable
+
+[link to the PiPy package](https://pypi.org/project/kdlutils/)
+
+### To do
+- [ ] Write a tutorial.md file explaining the process
+- [x] Share useful links
+- [x] Share link of Pipy package
