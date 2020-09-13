@@ -19,3 +19,6 @@ out = kdlutils.kdlutils.getOutShape(input_dim,layersList)
 print(out)
 ```
 Documentation and new codes will be uploaded soon.
+
+### Note:
+he setup.py file and theREADME.rst files are written based on the following blog : https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
