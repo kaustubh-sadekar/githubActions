@@ -1,5 +1,6 @@
 from distutils.core import setup
 from os import path
+import os
 
 # read the contents of your README file
 this_directory = path.abspath(path.dirname(__file__))
@@ -18,7 +19,7 @@ setup(
   long_description_content_type="text/x-rst",
   author = 'kaustubh sadekar',                   # Type in your name
   url = 'https://github.com/kaustubh-sadekar/githubActions',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/kaustubh-sadekar/githubActions/archive/v_1.4.4.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/kaustubh-sadekar/githubActions/archive/v_1.4.6.tar.gz',    # I explain this later on
   keywords = ['Deep Learning', 'Helper functions'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
