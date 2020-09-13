@@ -20,10 +20,17 @@ print(out)
 ```
 Documentation and new codes will be uploaded soon.
 
-### Note:
-he setup.py file and theREADME.rst files are written based on [this blog](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56). It is a great reference for anyone trying to their package pip installable
+### References:
 
-[link to the PiPy package](https://pypi.org/project/kdlutils/)
+1. The setup.py file and theREADME.rst files are written based on [this blog](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56). It is a great reference for anyone trying to their package 'pip installable'
+
+2. Link to python documentation section [related to packaging](https://packaging.python.org/tutorials/packaging-projects/#uploading-your-project-to-pypi).
+
+3. Link to python documentation section [related to pipy friendly README](https://packaging.python.org/guides/making-a-pypi-friendly-readme/).
+
+4. Link to python documentation section [related to packaging using GiHhubActions](https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/#:~:text=Go%20to%20https%3A%2F%2Fpypi,distinguishable%20in%20the%20token%20list.).
+
+5. [link to the PiPy package](https://pypi.org/project/kdlutils/)
 
 ### To do
 - [ ] Write a tutorial.md file explaining the process
