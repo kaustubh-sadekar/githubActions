@@ -16,7 +16,6 @@ except:
 setup(
   name = 'kdlutils',         # How you named your package folder
   packages = ['kdlutils'],   # Chose the same as "name"
-  version = '1.4.10',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = description,
   long_description=long_description,
