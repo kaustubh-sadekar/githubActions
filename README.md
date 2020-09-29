@@ -34,6 +34,8 @@ Documentation and new codes will be uploaded soon.
 
 6. [link to the PiPy package](https://pypi.org/project/kdlutils/)
 
+7. [Link to a useful video tutorial related to CI CD Github Actions](https://www.youtube.com/watch?v=WTofttoD2xg)
+
 ### To do
 - [ ] Write a tutorial.md file explaining the process
 - [x] Share useful links
