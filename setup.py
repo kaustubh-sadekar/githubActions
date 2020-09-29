@@ -23,7 +23,6 @@ setup(
   long_description_content_type="text/x-rst",
   author = 'kaustubh sadekar',                   # Type in your name
   url = 'https://github.com/kaustubh-sadekar/githubActions',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/kaustubh-sadekar/githubActions/archive/v_1.4.10.tar.gz',    # I explain this later on
   keywords = ['Deep Learning', 'Helper functions'],   # Keywords that define your package best
   package_data={'':['README.rst']},
   classifiers=[
