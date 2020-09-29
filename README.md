@@ -4,6 +4,7 @@ This repository contains a small collection of utility functions.
 
 <p align="center">
   <a href="https://github.com/kaustubh-sadekar/githubActions/actions?query=workflow%3AUpload Python Package"><img alt="Upload-Python-Package" src="https://github.com/kaustubh-sadekar/githubActions/workflows/Upload Python Package/badge.svg"></a>
+  <a href="https://github.com/kaustubh-sadekar/githubActions/actions?query=workflow%3Atests"><img alt="tests" src="https://github.com/kaustubh-sadekar/githubActions/workflows/tests/badge.svg"></a>
 </p>
 
 # Installing the library in colab
