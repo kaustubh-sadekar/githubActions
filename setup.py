@@ -13,7 +13,7 @@ try:
 except:
     long_description = description
 
-version = '1.5.5'
+version = '1.5.6'
 
 setup(
   name = 'kdlutils',         # How you named your package folder
